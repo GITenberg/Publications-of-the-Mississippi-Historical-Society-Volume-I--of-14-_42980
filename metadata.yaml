@@ -1,0 +1,50 @@
+_repo: Publications-of-the-Mississippi-Historical-Society-Volume-I--of-14-_42980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42980-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mississippi Historical Society
+    aliases:
+    - State Historical Society of Mississippi
+    - Society, Mississippi Historical
+    - Mississippi State Historical Society
+    - Historical Society of Mississippi
+    gutenberg_agent_id: '41963'
+    url: http://www.gutenberg.org/2009/agents/41963
+  editors:
+  - agent_name: Rowland, Dunbar
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '41965'
+    url: http://www.gutenberg.org/2009/agents/41965
+  - agent_name: Riley, Franklin L. (Franklin Lafayette)
+    alias: Riley, Franklin Lafayette
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '41964'
+    url: http://www.gutenberg.org/2009/agents/41964
+description: ''
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F296'
+- !lcsh 'Mississippi -- History'
+tableOfContents: Mississippi's "Backwoods Poet" / Dabney Lipscomb -- Mississippi as
+  a field for the student of literature / W. L. Weber -- Suffrage in Mississippi /
+  R. H. Thompson -- Spanish policy in Mississippi after the Treaty of San Lorenzo
+  / F. L. Riley -- Time and place relations in history with some Mississippi and Louisiana
+  applications / H. E. Chambers -- The study and teaching of history / Herbert B.
+  Adams -- Some facts in the early history of Mississippi / R. W. Jones -- Pre-historic
+  jasper ornaments in Mississippi / R. B. Fulton -- Suggestions to local historians
+  / Franklin L. Riley -- Some inaccuracies in Claiborne's History in regard to Tecumseh
+  / H. S. Halbert -- Did Jones County secede? / A. L. Bondurant.
+title: Publications of the Mississippi Historical Society, Volume 01 (of 14), 1898
+url: http://www.gutenberg.org/ebooks/42980
