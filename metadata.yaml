@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '41964'
     url: http://www.gutenberg.org/2009/agents/41964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42980#Publications-of-the-Mississippi-Historical-Society-Volume-I--of-14-
 gutenberg_issued: '2013-06-18'
 gutenberg_type: Text
 identifiers:
